@@ -35,10 +35,9 @@ all the bugs that come with it.
 For me, the most exciting part of programming is the process of solving problems
 through creative ideas and innovative approaches.
 
-Lately, these have been some things that have gripped my interest:
+Lately, these are some things that have captured my interest:
 
 - AI Agents
 - dotfiles config (and DX)
-- lazygit
 - React Email
 - Background/cron jobs

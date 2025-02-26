@@ -1,14 +1,34 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dtran421
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - name: Config
+  - repos:
+      - dtran421/dotfiles
+      - dtran421/portfolio
+
+  - name: Personal
+  - repos:
+      - dtran421/ult-tic-tac-toe
+      - dtran421/investments-tracker
+      - dtran421/project-godspeed
+
+  - name: Work
+  - repos:
+      - dtran421/3D-SHARKS
+      - dtran421/Whispearrings-swift
+
+  - name: Academic
+  - repos:
+      - dtran421/csci-435_what_if_tool
+      - dtran421/machine-learning-engineering-demo
+      - dtran421/AMazeByDukeTran
+      - dtran421/MazeByDukeTran
+      - dtran421/Game2048ByDukeTran
+
+  - name: Misc
+  - repos:
+      - dtran421/term-navigator
+      - dtran421/utils-toolkit
